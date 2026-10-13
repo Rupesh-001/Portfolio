@@ -2439,3 +2439,24 @@ body:not(.dark-theme) .contact-icon {
     background: #f1f5f9;
     border-color: #cbd5e1;
 }
+
+/* Fix Download Resume visibility in light mode */
+body:not(.dark-theme) .resume-button {
+    color: #111827 !important;
+    background: #ffffff;
+    border-color: #111827;
+}
+
+body:not(.dark-theme) .resume-button svg {
+    color: #111827;
+}
+
+body:not(.dark-theme) .resume-button:hover {
+    background: #111827;
+    color: #ffffff !important;
+    border-color: #111827;
+}
+
+body:not(.dark-theme) .resume-button:hover svg {
+    color: #ffffff;
+}
