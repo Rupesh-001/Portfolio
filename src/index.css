@@ -1,0 +1,6 @@
+@import url("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css");
+
+:root { font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+html { scroll-behavior: smooth; }
+body { margin: 0; }
+button, input, textarea { font: inherit; }
